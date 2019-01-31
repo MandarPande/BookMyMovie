@@ -1,4 +1,4 @@
-package com.ameykolhe.bookmymovie.utilities;
+package com.project.bookmymovie.utilities;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
